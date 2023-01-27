@@ -8,7 +8,8 @@ app.register(cors);
 app.register(appRoutes);
 
 app.listen({
-    port: 3333
+    port: 3333,
+    /* host: '0.0.0.0' */ // Necessário descomentar para o app mobile conseguir acessar o backend
 }).then(() => {
     console.log('HTTP Server running');
 });
