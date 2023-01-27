@@ -25,16 +25,27 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Backend
+- Server
   - NodeJs
+  - TypeScript
   - Prisma
+  - Fastify
+  - Zod
+  - DayJs
   - Fastify
 - Mobile
   - ReactNative
+  - TypeScript
   - NativeWind
+  - Axios
+  - Clsx
 - Web
   - ReactJS
+  - TypeScript
   - Tailwindcss
+  - Radix
+  - Axios
+  - Clsx
 
 ## 💻 Projeto
 
